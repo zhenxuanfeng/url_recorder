@@ -1,0 +1,16 @@
+{
+  "name": "URL_recorder",
+  "description": "Record URLs",
+  "version": "0.7",
+  "permissions": [
+          "tabs", "storage", "downloads"
+  ],
+  "browser_action":{
+    "default_popup":"popup.html"
+  },
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": false
+  },
+  "manifest_version": 2
+}
