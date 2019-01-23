@@ -1,5 +1,6 @@
 ## 使用说明
-1. 解压压缩包
+1. 点击右上角的clone or download下载本项目并解压压缩包
+> git clone git::github.com/zhenxuanfeng/url_recorder/url_recorder
 2. 打开chrome浏览器，在地址栏输入chrome://extensions打开插件管理界面，按下图说明安装插件
 ![image](https://github.com/zhenxuanfeng/url_recorder/blob/master/Screenshots/1.PNG)
 ![image](https://github.com/zhenxuanfeng/url_recorder/blob/master/Screenshots/2.PNG)
