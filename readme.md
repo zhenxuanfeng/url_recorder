@@ -5,11 +5,7 @@
 ![image](https://github.com/zhenxuanfeng/url_recorder/blob/master/Screenshots/2.PNG)
 ![image](https://github.com/zhenxuanfeng/url_recorder/blob/master/Screenshots/3.PNG)
 3. 开始浏览网页
-4. 浏览一段时间后，点击插件图标并复制记录到记事本
-![image](https://github.com/zhenxuanfeng/url_recorder/blob/master/Screenshots/4.PNG)
-5. **保存记事本为'urlList.txt'**，文件名必须为此文件名，**注意大小写**
-6. 确保urlList.txt和urlList_to_csv_without_https.exe两个文件在同一目录下，执行exe文件
-7. 打开csv文件查看结果
+4. 浏览一段时间后，点击插件图标并下载json文件到本地
 
 
 ## Q&A

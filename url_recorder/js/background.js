@@ -6,8 +6,6 @@ chrome.tabs.onUpdated.addListener(function(tabId, changeInfo, tab) {
         record['url'] = tab.url;
         record['time'] = new Date().getTime();
         records.push(record);
-        data = JSON.stringify(records)
-        alert(records.length);
         // urlList.push(tab.url);
         // var timestamp=new Date().getTime();
         // urlList.push(timestamp)
